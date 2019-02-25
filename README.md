@@ -4,7 +4,7 @@ First year First Semester Programming Project;
 
 Contains Two Games: Poker and Highness;
 
-Containing >3500 lines of card code; 
+Containing >3500 lines of code; 
 
 Youtube Link Containing Functonality of the code: https://www.youtube.com/watch?v=xzxsPkknEfI&t=5s;
 
